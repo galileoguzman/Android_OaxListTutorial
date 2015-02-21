@@ -16,7 +16,7 @@ import java.util.ArrayList;
 
 public class ListItemAdapter extends BaseAdapter{
 
-    //global variables to be obtained on the constructor
+    //global variables to be obtained on the jolo
     private Context mContext;
     private ArrayList<ListItem> mArrayList;
     private LayoutInflater mLayoutInflater;
